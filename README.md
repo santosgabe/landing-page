@@ -1,4 +1,4 @@
-# landing-page
+# Christmas-Express
 This is the last project within the FLEXBOX foundational curriculum with The Odin Project. 
 
 Please, note that besides images all buttons and links are clickable and each source is listed below for refence and credit.
