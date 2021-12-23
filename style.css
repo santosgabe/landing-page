@@ -16,7 +16,7 @@ img {
     max-width: 100%;
     border: 1px solid #3882F6;
     border-radius: 15px;
-    border-width: 8px;
+    border-width: 5px;
     object-fit: cover;
 }
 
@@ -42,7 +42,7 @@ button {
     background-color: #C30F16;
     text-align: center;
     text-decoration: none;
-    font-size: 20px;
+    font-size: 18px;
 }
 
 .header {
@@ -137,7 +137,7 @@ button {
 .quote {
     background-color: #E5E7EB;
     color: #1f2937;
-    font-size: 32px;
+    font-size: 28px;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -181,7 +181,7 @@ button {
 .button-two {
     color: #E5E7EB;
     background-color: #3882F6;
-    font-size: 22px;
+    font-size: 18px;
     margin: auto;
     box-shadow: 0 2px rgb(236, 232, 232);
 }
